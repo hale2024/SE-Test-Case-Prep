@@ -4,7 +4,11 @@
 <p>The input dataset will contain a list of soccer players and their information, including name, age, country, overall rating, and position. The
 source code retrieves relevant information from this dataset by making use of initially defined functions. The defined functions are:</p>
 <ul>
-  <li><strong>get_best_player_and _number_of_world_classes:-</strong>A world class player is defined as players with an overall rating >= 80, and the the best player is the player with the highest overall rating</li>
+  <li><strong>get_best_player_and _number_of_world_classes:-</strong>A world class player is defined as players with an overall rating >= 80, and the the best player is the player with the highest overall rating.A world class player is defined as players with an overall score greater than or equal to 80.
+It should return the name of the best player out of the world class players and the number of world class players in a given country.
+Best player is the player who has the highest overall score.
+If there’s a tie on the highest overall rating, it should return the name of the best player who appears first in the list.
+If there is no world class player, it should return a string, ‘No world class’.</li>
      <li><strong>get_best_players_for_position:-</strong>It should be able to return a list of the top n number of players from the country, given a position and the number of players to retrieve.</li>
    <li><strong>get_best_players_for_each_position:-</strong>It should be able to get the best players for each of the 4 positions, goalkeeper, defender, midfielder, and forward, from the country.</li>
    <li><strong>get_best_formation:-</strong>It should return a list of best players, including the goalkeeper, for a given formation.</li>
