@@ -28,6 +28,6 @@ source code retrieves relevant information from this dataset by making use of in
   <li>The input dataset can be found in data.csv</li>
   <li>The detailed description of my test cases can be found in pr2_Halleluyah_20200816.pdf.</li>
   <strong><li>My test cases can be found in test_soccer_player.py.</li></strong>
-   <strong><li>The fixed source code can be found in soccer_player_original.</li></strong>
+   <strong><li>The fixed source code can be found in soccer_player with short comments inside the code for the reasons of editing/li></strong>
   <li>I recieved an A+ because my test cases were very well designed and well documented.</li>
 </ul>
