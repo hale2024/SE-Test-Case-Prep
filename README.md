@@ -13,3 +13,8 @@ My detailed description of my test cases can be found in pr2_Halleluyah_20200816
 My test cases can be found in test_soccer_player.py.
 
 I was awarded Bonus points because my test cases were very well designed and well documented.
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
