@@ -16,7 +16,7 @@ source code retrieves relevant information from this dataset by making use of in
 
   
 </ul>
-<p> The comprehensive tests I built will ensure that accurate information retrieval is done when the source code functions are called.</p>
+<strong><p> The comprehensive tests I built ensure that accurate information retrieval is done when any of the above source code functions are called. I tested the source code with the python ‘unittest’ module and made the necessary fixes to the code.</p></strong>
 
 
 <h2>Acknowledgment and Additional Information</h2>
@@ -24,9 +24,10 @@ source code retrieves relevant information from this dataset by making use of in
 <ul>
   <li>This assignment is done as part of KAIST Introduction of Software Engineering CS350 course.</li>
   <li>The instructions for this assignment are found inside cs350_spring2022_pr2.pdf.</li>
-  <li>The source code can be found in soccer_player_original.</li>
+  <li>The original source code can be found in soccer_player_original.</li>
   <li>The input dataset can be found in data.csv</li>
   <li>The detailed description of my test cases can be found in pr2_Halleluyah_20200816.pdf.</li>
   <strong><li>My test cases can be found in test_soccer_player.py.</li></strong>
+   <strong><li>The fixed source code can be found in soccer_player_original.</li></strong>
   <li>I recieved an A+ because my test cases were very well designed and well documented.</li>
 </ul>
