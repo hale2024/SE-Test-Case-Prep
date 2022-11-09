@@ -16,7 +16,7 @@ source code retrieves relevant information from this dataset by making use of in
 
   
 </ul>
-<strong><p> The comprehensive tests I built ensure that accurate information retrieval is done when any of the above source code functions are called. I tested the source code with the python ‘unittest’ module and made the necessary fixes to the code.</p></strong>
+<strong><p> The comprehensive tests I built based on the above functional requirements and definitons ensure that accurate information retrieval is done when any of the above source code functions are called. I tested the source code with the python ‘unittest’ module and made the necessary fixes to the source code.</p></strong>
 
 
 <h2>Acknowledgment and Additional Information</h2>
