@@ -10,8 +10,6 @@
 
 
 
-My test cases can be found in test_soccer_player.py.
-
 
 <ul>
   <li>This assignment is done as part of KAIST Introduction of Software Engineering CS350 course.</li>
