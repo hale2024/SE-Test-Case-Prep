@@ -1,4 +1,4 @@
-<center>Preparing Test Cases</center>
+<h1>Preparing Test Cases</h1>
 This assignment is done as part of KAIST Introduction of Software Engineering CS350 course. I prepared test cases based on the functional requirements in the above cs350_spring2022_pr2.pdf file. 
 
 The instructions for this assignment are found inside cs350_spring2022_pr2.pdf.
