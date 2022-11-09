@@ -1,6 +1,6 @@
 <h1>Preparing Test Cases on Soccer Players Filtering Program</h1>
 
-<h2>Assignment Description</h2>
+<h2>Explanation</h2>
 <p>The input dataset will contain a list of soccer players and their information, including name, age, country, overall rating, and position. The
 source code retrieves relevant information from this dataset by making use of initially defined functions. The defined functions are:</p>
 <ul>
